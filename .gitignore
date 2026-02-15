@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Excel & DB
+*.db
+*.xlsx
+
+# Environment
+venv/
+.env
