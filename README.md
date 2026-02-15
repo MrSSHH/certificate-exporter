@@ -5,6 +5,7 @@ A professional Python-based GUI utility designed to bridge the gap between compl
 ---
 
 ## 📝 Project Overview
+<img width="492" height="520" alt="image" src="https://github.com/user-attachments/assets/0690b42b-684e-43b7-97d7-a171a3e2760e" />
 
 This application serves as a **Search-and-Export bridge** for inventory and logistics management.  
 
